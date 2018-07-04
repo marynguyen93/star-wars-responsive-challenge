@@ -1,0 +1,27 @@
+header{
+	background-color: #ffc966;
+	margin-bottom: 30px;
+}
+
+.card{
+	border: 1px solid;
+	border-color: lightgrey;
+  	margin-bottom: 20px;
+
+}
+
+.cardimg{
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+
+.cardtext{
+	padding:20px;
+}
+
+.cardtext h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
